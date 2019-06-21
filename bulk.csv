@@ -1,0 +1,5 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
+Joshua,L,Lynch,JLynch,JLynch@isat.com,2749 Liberty Street,Dallas,75202,TX,Netherlands,service/aftersale,"123QWE,./",214-800-4820,Service/aftersale,isat,"OU=Service/aftersales,DC=isat,DC=com"
+Sam,A,smith,ssmith,ssmith@isat.com,2749 Liberty Street,Dallas,75202,TX,Netherlands,service/aftersale,"123QWE,./",214-800-4820,Service/aftersale,isat,"OU=Service/aftersales,DC=isat,DC=com"
+Peter,L,Dorn,pdorn,peter@isat.com,akerkhof 32,Groningen,8713LK,GR,Netherlands,afdelingshoofd,"123QWE,./",214-800-4820,afdelingshoofd,isat,"OU=Afdelingshoofden,DC=isat,DC=com"
+John,n,Mia,jmia,jmia@isat.com,diamantlaan 32,Groningen,8713MJ,GR,Netherlands,afdelingshoofd,"123QWE,./",214-800-4820,Afdeelingdhoofd,isat,"OU=Afdelingshoofden,DC=isat,DC=com"
